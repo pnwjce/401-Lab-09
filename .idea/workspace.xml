@@ -37,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="116">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -146,22 +146,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552011776639</updated>
-      <workItem from="1552011778247" duration="8265000" />
+      <workItem from="1552011778247" duration="8477000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8265000" />
+    <option name="totallyTimeSpent" value="8477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="232" y="25" width="962" height="725" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24865447" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24865447" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.4994618" visible="true" weight="0.30807248" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.4994618" visible="true" weight="0.30807248" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50053823" side_tool="true" weight="0.30807248" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -320,8 +321,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="116">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
